@@ -1,5 +1,5 @@
 #include <iostream>
-#include "bfgs.h"
+#include "gsl_minimizer.h"
 
 enum {count = 30};
 
